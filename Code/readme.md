@@ -113,4 +113,3 @@ Spawn a moving box to test obstacle avoidance.
 gz model --spawn-file ~/limo_ws/src/limo_car/models/moving_box/moving_box.sdf --model-name moving_obstacle -x 0 -y 0 -z 0.25
 ```
 
-This will add a box that moves in a predefined pattern (if the SDF defines motion). You can observe how the robot replans its path around it.
