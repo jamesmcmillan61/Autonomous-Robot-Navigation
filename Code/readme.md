@@ -113,20 +113,3 @@ Spawn a moving box to test obstacle avoidance.
 gz model --spawn-file ~/limo_ws/src/limo_car/models/moving_box/moving_box.sdf --model-name moving_obstacle -x 0 -y 0 -z 0.25
 ```
 
-
-
-
-
-
-
-
-    <plugin name="random_velocity" filename="libRandomVelocityPlugin.so">
-    <link>link</link>
-    <initial_velocity>0 0.5 0</initial_velocity>
-    <velocity_factor>0.5</velocity_factor>
-    <update_period>5</update_period>
-    <min_z>0</min_z>
-    <max_z>0</max_z>
-      
-    </plugin>
-
