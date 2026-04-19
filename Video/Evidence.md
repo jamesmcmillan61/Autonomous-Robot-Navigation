@@ -18,7 +18,7 @@
 
 [**Fault Scenarios	5**](#fault-scenarios)
 
-# SLAM  {#slam}
+# SLAM
 
 ## **Camera Feed During Mapping**
 
