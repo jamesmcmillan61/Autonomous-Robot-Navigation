@@ -99,24 +99,14 @@ GIF of A successfully following the planned path and reaching goal without colli
 
 GIF of A getting stuck in a doorway and triggering “goal failed” error.
 
-## **A\* Successful Navigation After Tuning**
+## **A\* Successful Navigation **
 
-GIF of A completing the same navigation smoothly and reaching goal.
-
-## **A\* Re-planning**
-
-GIF showing A hesitate at a junction then re-plan the optimal route.
-
+<img width="600" height="600" alt="Sucsessfull Navigation with A* path planning" src="https://github.com/user-attachments/assets/03b46421-0831-40af-8f0b-9fc1189fbe75" />
+[Full video here](https://github.com/jamesmcmillan61/Autonomous-Robot-Navigation/blob/main/Video/Navigation/AStar/AStar%20Navigation.mp4)
 
 ---
 
 # Safety / recovery behaviours
-
-## **Robot Stuck in Corner**
-
-GIF of robot navigating into a corner with no viable path forward.
-
-
 
 ## **Recovery Behaviour: Spinning**
 
@@ -126,8 +116,6 @@ GIF of robot navigating into a corner with no viable path forward.
 ## **Recovery Behaviour: Backing Up**
 
 <img width="600" height="344" alt="Recovery behavure backing up" src="https://github.com/user-attachments/assets/407c3a3c-ceed-4d69-8c03-e7f6b26eceff" />
-
-
 
 ## **Recovery Behaviour: Waiting & Re-planning**
 
@@ -151,6 +139,7 @@ GIF of RViz costmap with inflated obstacles – robot stays outside red zones.
 ## **Robot Stopping for Obstacle**
 
 <img width="448" height="280" alt="Robot stops for dynamic obsticle" src="https://github.com/user-attachments/assets/a8644bad-6842-4917-a38f-3f2800bac92f" />
+
 ## **Costmap Clearing Mode – Obstacle Disappears**
 
 GIF showing the costmap cell marked as occupied, then cleared after obstacle moves away.
