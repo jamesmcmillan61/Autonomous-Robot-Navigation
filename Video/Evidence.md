@@ -17,12 +17,14 @@
 
 ### Camera View During Mapping
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/243c8699-b249-4335-8b4e-abff49bb8f43" width="300" />
+  <img src="https://github.com/user-attachments/assets/243c8699-b249-4335-8b4e-abff49bb8f43" width="300" style="border-radius: 16px;"
+/>
 </p>
 
 ### Map Building in RViz
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a980c0dd-d168-43f6-a634-cc95cc1fc9dd" width="600" />
+  <img src="https://github.com/user-attachments/assets/a980c0dd-d168-43f6-a634-cc95cc1fc9dd" width="600" style="border-radius: 16px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);"
+/>
 </p>
 
 ### Loop Closure — Before Correction
