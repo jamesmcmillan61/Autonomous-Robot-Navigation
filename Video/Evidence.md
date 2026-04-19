@@ -4,19 +4,19 @@
 
 ## James McMillan | 202202995
 
-[**SLAM	1**](#slam)
+[**SLAM**](#slam)
 
-[**Localisation	2**](#localisation)
+[**Localisation**](#localisation)
 
-[**Navigation (DWA)	2**](#navigation-\(dwa\))
+[**Navigation (DWA)**](#navigation-\(dwa\))
 
-[**Navigation (A\*)	3**](#navigation-\(a*\))
+[**Navigation (A\*)**](#navigation-\(a*\))
 
-[**Safety / recovery behaviours	3**](#safety-/-recovery-behaviours)
+[**Safety / recovery behaviours**](#safety-/-recovery-behaviours)
 
-[**Dynamic obstacles	4**](#dynamic-obstacles)
+[**Dynamic obstacles**](#dynamic-obstacles)
 
-[**Fault Scenarios	5**](#fault-scenarios)
+[**Fault Scenarios**](#fault-scenarios)
 
 # SLAM
 
@@ -77,6 +77,7 @@ GIF of DWA with increased inflation radius – robot stays safely away from wall
 
 GIF showing DWA frequently pausing and re-evaluating path (characteristic behaviour).
 
+
 # Navigation (A\*)
 
 ## **9.1.4 – A\* Collision Before Fix (Sim Time Issue)**
@@ -109,9 +110,8 @@ GIF of robot navigating into a corner with no viable path forward.
 
 ## **Recovery Behaviour: Spinning**
 
-GIF of robot performing spin recovery (e.g., 3.14 rad spin) when stuck.
+<img width="608" height="414" alt="Recovery behaviour Spinning" src="https://github.com/user-attachments/assets/be86b1e4-3468-4a69-abcb-c6f5cc65a326" />
 
-# 
 
 ## **Recovery Behaviour: Backing Up**
 
@@ -151,7 +151,7 @@ GIF of a row of unmapped objects completely blocking the direct path, and the ro
 
 GIF of RViz showing the global planner finding a different route when the direct path is blocked.
 
-# Fault Scenarios {#fault-scenarios}
+# Fault Scenarios
 
 ## **Drift Before Fix (Misaligned Map & Scan)**
 
