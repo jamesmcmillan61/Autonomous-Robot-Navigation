@@ -4,21 +4,19 @@
 
 ## James McMillan | 202202995
 
-[**SLAM	0**](#slam)
+[**SLAM	1**](#slam)
 
-[**Localisation	1**](#localisation)
+[**Localisation	2**](#localisation)
 
-[**Navigation (DWA)	1**](#navigation-\(dwa\))
+[**Navigation (DWA)	2**](#navigation-\(dwa\))
 
-[**Navigation (A\*)	1**](#navigation-\(a*\))
+[**Navigation (A\*)	3**](#navigation-\(a*\))
 
-[**Safety / recovery behaviours	2**](#safety-/-recovery-behaviours)
+[**Safety / recovery behaviours	3**](#safety-/-recovery-behaviours)
 
-[**Dynamic obstacles	2**](#dynamic-obstacles)
+[**Dynamic obstacles	4**](#dynamic-obstacles)
 
-[**Fault Scenarios	3**](#fault-scenarios)
-
-[**Appendix: Additional Evidence (Optional but Recommended)	3**](#heading=h.pzu4f0s98g8w)
+[**Fault Scenarios	5**](#fault-scenarios)
 
 # SLAM  {#slam}
 
