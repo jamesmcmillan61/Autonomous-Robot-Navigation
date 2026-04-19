@@ -1,5 +1,5 @@
 # Autonomous Robot Navigation  
-### Evidence Submission — 701028 Autonomous Robots  
+### Evidence — 701028 Autonomous Robots  
 **James McMillan (202202995)**
 
 ---
