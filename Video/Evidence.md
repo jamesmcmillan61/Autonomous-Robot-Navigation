@@ -118,7 +118,7 @@
 
 ### Costmap Clearing Mode
 <p align="center">
-  <img src="GIF_URL_HERE" width="600" />
+  <img src="https://github.com/user-attachments/assets/ddfac08a-83b5-4b90-abec-5a1dfca589eb" width="600" />
 </p>
 
 ### Blocked Path
