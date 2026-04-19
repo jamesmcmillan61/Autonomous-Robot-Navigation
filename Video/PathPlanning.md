@@ -1,7 +1,4 @@
-* A*
-* DWA
-* A few faulty ones
-* 
+# Path Planning
 ## DWA
 
 
