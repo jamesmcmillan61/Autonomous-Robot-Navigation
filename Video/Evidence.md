@@ -6,7 +6,6 @@
 
 ## Table of Contents
 1. [SLAM](#slam)
-2. [Localisation](#localisation)
 3. [Navigation — DWA](#navigation-dwa)
 4. [Navigation — A*](#navigation-a)
 5. [Safety & Recovery Behaviours](#safety--recovery-behaviours)
@@ -82,10 +81,13 @@ GIF showing DWA frequently pausing and re-evaluating path (characteristic behavi
 GIF of robot waiting (2 sec) then clearing costmap and re-planning successfully.
 
 
-## **Costmap Showing Inflation Zones**
+## **Costmaps **
 
-GIF of RViz costmap with inflated obstacles – robot stays outside red zones.
+### Local cost map 
+<img width="441" height="541" alt="image" src="https://github.com/user-attachments/assets/2d255db7-e6e9-44db-a887-d00d2ced3056" />
 
+### Global costmap 
+<img width="438" height="537" alt="image" src="https://github.com/user-attachments/assets/6376c2e3-a95d-4e26-8678-d596643192e9" />
 
 ---
 
@@ -124,10 +126,3 @@ GIF showing the costmap cell marked as occupied, then cleared after obstacle mov
 
 GIF after reducing max\_accel and max\_decel – smooth turning, no slip, path followed accurately.
 
-## **Loop Closure Improvement (Before)**
-
-GIF of map with obvious distortion before loop closure (see also 6.3).
-
-## **Loop Closure Improvement (After)**
-
-GIF of same area after loop closure – map corrected (see also 6.4)
