@@ -1,6 +1,7 @@
 # Dynamic obsticles 
 
 # Dynamic obsticle moving
+<img width="530" height="362" alt="Dynamic Obsticals" src="https://github.com/user-attachments/assets/6f763c55-e5db-4d88-8486-1b4d2a1e5f1c" />
 
 
 # Robot avoiding dynamic obsticle 
