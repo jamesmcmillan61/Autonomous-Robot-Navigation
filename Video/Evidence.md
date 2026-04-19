@@ -39,6 +39,11 @@ GIF of the same area after loop closure – map now correctly aligned and contin
 
 GIF of the robot revisiting a previously mapped area, triggering loop closure correction.
 
+
+
+
+---
+
 # Localisation
 
 ## **Initial Pose Estimation (Before Manual Pose)**
@@ -61,6 +66,9 @@ GIF of a long navigation run with the robot’s pose estimate remaining stable (
 
 GIF where the robot starts with a small pose error and AMCL gradually corrects it back into alignment.
 
+
+---
+
 # Navigation (DWA)
 
 ## **DWA Start-to-Goal Run (Before Tuning)**
@@ -75,6 +83,7 @@ GIF of DWA with increased inflation radius – robot stays safely away from wall
 
 GIF showing DWA frequently pausing and re-evaluating path (characteristic behaviour).
 
+---
 
 # Navigation (A\*)
 
@@ -98,13 +107,16 @@ GIF of A completing the same navigation smoothly and reaching goal.
 
 GIF showing A hesitate at a junction then re-plan the optimal route.
 
+
+---
+
 # Safety / recovery behaviours
 
 ## **Robot Stuck in Corner**
 
 GIF of robot navigating into a corner with no viable path forward.
 
-# 
+
 
 ## **Recovery Behaviour: Spinning**
 
@@ -121,11 +133,14 @@ GIF of robot navigating into a corner with no viable path forward.
 
 GIF of robot waiting (2 sec) then clearing costmap and re-planning successfully.
 
-# 
 
 ## **Costmap Showing Inflation Zones**
 
 GIF of RViz costmap with inflated obstacles – robot stays outside red zones.
+
+
+---
+
 
 # Dynamic obstacles
 
@@ -148,6 +163,9 @@ GIF of a row of unmapped objects completely blocking the direct path, and the ro
 ## **RViz Planned Path After Blockage**
 
 GIF of RViz showing the global planner finding a different route when the direct path is blocked.
+
+
+---
 
 # Fault Scenarios
 
