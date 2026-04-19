@@ -40,7 +40,7 @@ GIF of the same area after loop closure – map now correctly aligned and contin
 
 GIF of the robot revisiting a previously mapped area, triggering loop closure correction.
 
-# Localisation  {#localisation}
+# Localisation
 
 ## **Initial Pose Estimation (Before Manual Pose)**
 
@@ -50,19 +50,19 @@ GIF showing LIDAR scan not aligned with the static map (red scan lines mismatche
 
 GIF showing LIDAR scan correctly aligned with the map after user sets initial pose in RViz.
 
-# 
+
 
 ## **Localisation Stability During Navigation**
 
 GIF of a long navigation run with the robot’s pose estimate remaining stable (no drift, scan stays aligned).
 
-# 
+
 
 ## **AMCL Correcting Minor Drift**
 
 GIF where the robot starts with a small pose error and AMCL gradually corrects it back into alignment.
 
-# Navigation (DWA) {#navigation-(dwa)}
+# Navigation (DWA)
 
 ## **DWA Start-to-Goal Run (Before Tuning)**
 
@@ -76,7 +76,7 @@ GIF of DWA with increased inflation radius – robot stays safely away from wall
 
 GIF showing DWA frequently pausing and re-evaluating path (characteristic behaviour).
 
-# Navigation (A\*) {#navigation-(a*)}
+# Navigation (A\*)
 
 ## **9.1.4 – A\* Collision Before Fix (Sim Time Issue)**
 
@@ -98,7 +98,7 @@ GIF of A completing the same navigation smoothly and reaching goal.
 
 GIF showing A hesitate at a junction then re-plan the optimal route.
 
-# Safety / recovery behaviours  {#safety-/-recovery-behaviours}
+# Safety / recovery behaviours
 
 ## **Robot Stuck in Corner**
 
@@ -128,7 +128,7 @@ GIF of robot waiting (2 sec) then clearing costmap and re-planning successfully.
 
 GIF of RViz costmap with inflated obstacles – robot stays outside red zones.
 
-# Dynamic obstacles  {#dynamic-obstacles}
+# Dynamic obstacles
 
 ## **Dynamic Obstacle Moving in Gazebo**
 
