@@ -17,7 +17,7 @@
 
 ### Camera View During Mapping
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/243c8699-b249-4335-8b4e-abff49bb8f43" width="600" />
+  <img src="https://github.com/user-attachments/assets/243c8699-b249-4335-8b4e-abff49bb8f43" width="300" />
 </p>
 
 ### Map Building in RViz
