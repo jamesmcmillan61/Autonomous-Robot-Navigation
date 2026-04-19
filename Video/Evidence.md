@@ -146,40 +146,30 @@ GIF of RViz costmap with inflated obstacles – robot stays outside red zones.
 
 ## **Dynamic Obstacle Moving in Gazebo**
 
-GIF of the moving object (e.g., cube) crossing the robot’s planned path.
+<img width="530" height="362" alt="Dynamic Obsticals" src="https://github.com/user-attachments/assets/6f763c55-e5db-4d88-8486-1b4d2a1e5f1c" />
 
 ## **Robot Stopping for Obstacle**
 
-GIF of robot detecting the moving obstacle (LIDAR shows red points) and stopping safely.
-
+<img width="448" height="280" alt="Robot stops for dynamic obsticle" src="https://github.com/user-attachments/assets/a8644bad-6842-4917-a38f-3f2800bac92f" />
 ## **Costmap Clearing Mode – Obstacle Disappears**
 
 GIF showing the costmap cell marked as occupied, then cleared after obstacle moves away.
 
-## **Blocked Path – Robot Finds Alternative Route**
+## **Blocked Path**
 
-GIF of a row of unmapped objects completely blocking the direct path, and the robot navigating around them using a new plan.
+<img width="331" height="357" alt="Blocked path" src="https://github.com/user-attachments/assets/a35a99f4-44ef-4ce3-897c-15302dd8e9bb" />
 
 ## **RViz Planned Path After Blockage**
 
-GIF of RViz showing the global planner finding a different route when the direct path is blocked.
-
+<img width="702" height="842" alt="Re evaluating path based on blocked passage " src="https://github.com/user-attachments/assets/70e23c0a-b5da-4acd-8a2d-060be0baf1a7" />
 
 ---
 
 # Fault Scenarios
 
-## **Drift Before Fix (Misaligned Map & Scan)**
+## **AMCL Fixing drift / skidding **
 
-GIF of LIDAR scan misaligned with static map – robot appears to drive through walls.
-
-## **Drift Fix: AMCL Recovery Enabled**
-
-GIF after enabling AMCL automated recovery (recovery\_alpha\_fast=0.1) – map and scan stay aligned.
-
-## **Wheel Slip / Skid (Before Tuning)**
-
-GIF of robot turning but overshooting or oscillating due to slip – path tracking error.
+<img width="600" height="402" alt="AMCL fixing drift" src="https://github.com/user-attachments/assets/510b26b7-2e79-4bb3-a290-1345fbea2041" />
 
 ## **Skid Fix: Velocity Smoother Tuned**
 
