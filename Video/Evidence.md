@@ -18,26 +18,26 @@
 
 # SLAM
 
-## **Camera Feed During Mapping**
-
-GIF of the robot’s camera view while manually teleoperating the robot to build the map.
+## **Camera view while Mapping**
+<img width="166" height="118" alt="Camera View During Slam" src="https://github.com/user-attachments/assets/243c8699-b249-4335-8b4e-abff49bb8f43" />
 
 
 ## **Map Building (RVis view)**
 
-GIF showing the map in RViz evolving as the robot moves through the environment (two different timestamps).
+<img width="862" height="650" alt="image" src="https://github.com/user-attachments/assets/a980c0dd-d168-43f6-a634-cc95cc1fc9dd" />
+
 
 ## **Before Loop Closure Fix**
 
-GIF of the map before loop closure – show distortion, duplication, or misalignment (e.g., walls overlapping).
+<img width="600" height="419" alt="Skidding during map generation" src="https://github.com/user-attachments/assets/886fcdd1-30c8-41f3-9462-02506ccc22b8" />
 
-## **After Loop Closure Fix**
+## **After Loop Closure **
 
-GIF of the same area after loop closure – map now correctly aligned and continuous.
+<img width="977" height="615" alt="image" src="https://github.com/user-attachments/assets/1eb03c9a-0c4e-4520-9a2e-99edf285e308" />
 
 ## **Returning to a Known Location for Loop Closure**
+<img width="748" height="522" alt="Loop Closure " src="https://github.com/user-attachments/assets/472845cf-12a0-4587-b255-9911dec5fd07" />
 
-GIF of the robot revisiting a previously mapped area, triggering loop closure correction.
 
 
 
