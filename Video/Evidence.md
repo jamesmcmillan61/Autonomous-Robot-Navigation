@@ -38,50 +38,17 @@
 ## **Returning to a Known Location for Loop Closure**
 <img width="748" height="522" alt="Loop Closure " src="https://github.com/user-attachments/assets/472845cf-12a0-4587-b255-9911dec5fd07" />
 
-
-
-
-
----
-
-# Localisation
-
-## **Initial Pose Estimation (Before Manual Pose)**
-
-GIF showing LIDAR scan not aligned with the static map (red scan lines mismatched with walls).
-
-## **After Manual Poseing**
-
-GIF showing LIDAR scan correctly aligned with the map after user sets initial pose in RViz.
-
-
-
-## **Localisation Stability During Navigation**
-
-GIF of a long navigation run with the robot’s pose estimate remaining stable (no drift, scan stays aligned).
-
-
-
-## **AMCL Correcting Minor Drift**
-
-GIF where the robot starts with a small pose error and AMCL gradually corrects it back into alignment.
-
-
 ---
 
 # Navigation (DWA)
+<img width="716" height="860" alt="NavWithDWA_XS" src="https://github.com/user-attachments/assets/97032f51-7532-48ea-a3eb-4e49468d4ecb" />
 
 ## **DWA Start-to-Goal Run (Before Tuning)**
-
-GIF of DWA navigation with default inflation radius – robot gets too close to walls.
-
-## **DWA After Increasing Inflation Radius**
-
-GIF of DWA with increased inflation radius – robot stays safely away from walls and reaches goal.
 
 ## **DWA Stop-Start Behaviour**
 
 GIF showing DWA frequently pausing and re-evaluating path (characteristic behaviour).
+
 
 ---
 
