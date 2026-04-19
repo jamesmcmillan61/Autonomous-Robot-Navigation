@@ -87,21 +87,14 @@ GIF showing DWA frequently pausing and re-evaluating path (characteristic behavi
 
 # Navigation (A\*)
 
-## **9.1.4 – A\* Collision Before Fix (Sim Time Issue)**
+## **A\* Getting Stuck (Before Parameter Tuning)**
 
-GIF of A navigation colliding with a wall despite a clear planned path – show the collision.
-
-## **A\* After Enabling Sim Time**
-
-GIF of A successfully following the planned path and reaching goal without collision.
-
-## **A\* Doorway Getting Stuck (Before Parameter Tuning)**
-
-GIF of A getting stuck in a doorway and triggering “goal failed” error.
+<img width="920" height="464" alt="Robot getting stuck in doorway" src="https://github.com/user-attachments/assets/33a1345a-245c-430c-9fd5-35145a92e283" />
 
 ## **A\* Successful Navigation **
 
 <img width="600" height="600" alt="Sucsessfull Navigation with A* path planning" src="https://github.com/user-attachments/assets/03b46421-0831-40af-8f0b-9fc1189fbe75" />
+
 [Full video here](https://github.com/jamesmcmillan61/Autonomous-Robot-Navigation/blob/main/Video/Navigation/AStar/AStar%20Navigation.mp4)
 
 ---
