@@ -24,6 +24,7 @@
 
 GIF of the robot’s camera view while manually teleoperating the robot to build the map.
 
+
 ## **Map Building (RVis view)**
 
 GIF showing the map in RViz evolving as the robot moves through the environment (two different timestamps).
@@ -114,9 +115,9 @@ GIF of robot performing spin recovery (e.g., 3.14 rad spin) when stuck.
 
 ## **Recovery Behaviour: Backing Up**
 
-GIF of robot backing up (e.g., \-0.15 m/s for 0.6 m) during recovery.
+<img width="600" height="344" alt="Recovery behavure backing up" src="https://github.com/user-attachments/assets/407c3a3c-ceed-4d69-8c03-e7f6b26eceff" />
 
-# 
+
 
 ## **Recovery Behaviour: Waiting & Re-planning**
 
