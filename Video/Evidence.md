@@ -1,22 +1,20 @@
-# Autonomous Robot Navigation Evidence
+# Autonomous Robot Navigation  
+### Evidence Submission — 701028 Autonomous Robots  
+**James McMillan (202202995)**
 
-# 701028 Autonomous Robots
+---
 
-## James McMillan | 202202995
+## Table of Contents
+1. [SLAM](#slam)
+2. [Localisation](#localisation)
+3. [Navigation — DWA](#navigation-dwa)
+4. [Navigation — A*](#navigation-a)
+5. [Safety & Recovery Behaviours](#safety--recovery-behaviours)
+6. [Dynamic Obstacles](#dynamic-obstacles)
+7. [Fault Scenarios](#fault-scenarios)
 
-[**SLAM**](#slam)
+---
 
-[**Localisation**](#localisation)
-
-[**Navigation (DWA)**](#navigation-\(dwa\))
-
-[**Navigation (A\*)**](#navigation-\(a*\))
-
-[**Safety / recovery behaviours**](#safety-/-recovery-behaviours)
-
-[**Dynamic obstacles**](#dynamic-obstacles)
-
-[**Fault Scenarios**](#fault-scenarios)
 
 # SLAM
 
