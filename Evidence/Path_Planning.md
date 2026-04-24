@@ -1,7 +1,8 @@
 # Path Planning
 ## DWA
 <img width="450" height="450" alt="DWA visulisation. " src="https://github.com/user-attachments/assets/fc57dbe2-51d2-4bd6-9b46-7b692966979d" />
-[This was made in python - Code is here](/Navigation/)
+* [This was made in python - Code is here](/Navigation/DWA2.ipynb)
+* [Nav 2 peramiters](/Navigation/DWANav2peramiters.yaml)
 
 
 ## A* navigation 
