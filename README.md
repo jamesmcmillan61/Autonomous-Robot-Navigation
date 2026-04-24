@@ -3,13 +3,13 @@
 
 
 ## Evidence 
-[Set up and navigation](/Evidence/Navigation.md)
-[Path planning](/Evidence/Path_Planning.md)
+* [Set up and navigation](/Evidence/Navigation.md)
+* [Path planning](/Evidence/Path_Planning.md)
 
 --- 
 
 ## Code
-[Code](/Code/readme.mc)
+* [Code](/Code/readme.mc)
 
 
 
