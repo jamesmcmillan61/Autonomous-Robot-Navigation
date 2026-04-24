@@ -9,7 +9,7 @@
 --- 
 
 ## Code
-[Code](/code)
+[Code](/code/readme.mc)
 
 
 
