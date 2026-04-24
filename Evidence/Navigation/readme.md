@@ -8,6 +8,6 @@
 # DWA
 * [Video](/Evidence/Navigation/NavWithDWA (1).mp4)
 * [Visulatation Code](/DWA2.ipynb)
-* [Yaml Peramiters]()
+* [Yaml Peramiters](/DWANav2peramiters.yaml)
 
 
