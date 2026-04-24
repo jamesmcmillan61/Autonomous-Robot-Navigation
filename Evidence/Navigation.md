@@ -52,15 +52,7 @@
 
 ### DWA Start-to-Goal Run (Before Tuning)
 <p align="center">
-  <img src="GIF_URL_HERE" width="600" />
-  *GIF showing initial oscillatory behaviour.*
-
-</p>
-
-### DWA Stop–Start Behaviour
-<p align="center">
-  <img src="GIF_URL_HERE" width="600" />
-  *GIF showing frequent pausing and re-evaluation — characteristic of untuned DWA.*
+Can be found at - [Evidence/Navigation/NavWithDWA (1).mp4](Evidence/Navigation/NavWithDWA (1).mp4)
 
 </p>
 
