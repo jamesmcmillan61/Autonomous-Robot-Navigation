@@ -130,8 +130,8 @@ Can be found at - [Evidence/Navigation/NavWithDWA (1).mp4](Evidence/Navigation/N
 # Fault Scenarios
 
 ### AMCL Fixing Drift / Skidding
+[Link to video](/Video/AMCL%20Correcting%20drift.mp4)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/510b26b7-2e79-4bb3-a290-1345fbea2041" width="600" />
 </p>
 
-[Link to video](/Video/AMCL%20Correcting%20drift.mp4)
